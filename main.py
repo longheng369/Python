@@ -1,3 +1,7 @@
 print("Hello world!")
-for i in range (0,10):
-    print("Hehehe\n")
+def sum():
+    x = 1
+    y = 2
+    print(x + y)
+
+sum()
